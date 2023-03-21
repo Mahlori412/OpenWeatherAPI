@@ -1,0 +1,17 @@
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\bin\Debug\net6.0\TESTweather.exe
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\bin\Debug\net6.0\TESTweather.deps.json
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\bin\Debug\net6.0\TESTweather.runtimeconfig.json
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\bin\Debug\net6.0\TESTweather.dll
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\bin\Debug\net6.0\TESTweather.pdb
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\obj\Debug\net6.0\TESTweather.csproj.AssemblyReference.cache
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\obj\Debug\net6.0\TESTweather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\obj\Debug\net6.0\TESTweather.AssemblyInfoInputs.cache
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\obj\Debug\net6.0\TESTweather.AssemblyInfo.cs
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\obj\Debug\net6.0\TESTweather.csproj.CoreCompileInputs.cache
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\obj\Debug\net6.0\TESTweather.csproj.CopyComplete
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\obj\Debug\net6.0\TESTweather.dll
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\obj\Debug\net6.0\refint\TESTweather.dll
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\obj\Debug\net6.0\TESTweather.pdb
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\obj\Debug\net6.0\TESTweather.genruntimeconfig.cache
+C:\Users\manga\3D Objects\C# Practice\TESTweather\TESTweather\obj\Debug\net6.0\ref\TESTweather.dll

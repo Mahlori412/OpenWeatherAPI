@@ -1,0 +1,17 @@
+[
+  {
+    "City": "London",
+    "Temperature": 8.89,
+    "Humidity": 92.0
+  },
+  {
+    "City": "New York",
+    "Temperature": 4.99,
+    "Humidity": 46.0
+  },
+  {
+    "City": "Tokyo",
+    "Temperature": 17.22,
+    "Humidity": 68.0
+  }
+]

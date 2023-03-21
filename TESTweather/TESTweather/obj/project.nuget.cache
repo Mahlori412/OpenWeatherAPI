@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "en+I9/867ep7K3XbNs+xobFLpCLSnxbEkSmK2ouQkwPjmOYWzpl25esmpTycszYYStuOrZfKHb5gip/YG2pe3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manga\\3D Objects\\C# Practice\\TESTweather\\TESTweather\\TESTweather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manga\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\manga\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\manga\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\manga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\manga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
